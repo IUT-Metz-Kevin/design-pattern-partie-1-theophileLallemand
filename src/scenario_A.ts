@@ -52,6 +52,7 @@ interface GameplaySettings {
       }
     }
   
+    
     public getGameplaySettings(): GameplaySettings {
       return this.gameplaySettings;
     }
